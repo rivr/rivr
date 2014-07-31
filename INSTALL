@@ -1,0 +1,9 @@
+Building Rivr
+
+See doc/readme-qt.rst for instructions on building Rivr QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Rivr.
+
+See doc/build-*.txt for instructions on building Rivrd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Rivr.
